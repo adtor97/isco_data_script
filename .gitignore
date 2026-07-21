@@ -1,0 +1,6 @@
+# Mantener carpetas inputs/outputs en el repo, pero no su contenido
+inputs/*
+!inputs/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
